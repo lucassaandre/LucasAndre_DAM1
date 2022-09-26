@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Companeros SYSTEM "Companeros.dtd">
+
+<Companeros>
+
+  <Companero1>
+    <Nombre>Lucas</Nombre>
+    <PrimerApellido>Pinochet</PrimerApellido>
+    <Telefono>654582369</Telefono>
+  </Companero1>
+
+  <Companero2>
+    <Nombre>Joaquin</Nombre>
+    <PrimerApellido>Gutierrez</PrimerApellido>
+    <Telefono>654789632</Telefono>
+  </Companero2>
+
+  <Companero3>
+    <Nombre>Carlos</Nombre>
+    <PrimerApellido>Saiz</PrimerApellido>
+    <Telefono>639874563</Telefono>
+  </Companero3>
+
+  <Companero4>
+    <Nombre>Alejandro</Nombre>
+    <PrimerApellido>Martin</PrimerApellido>
+    <Telefono>654123589</Telefono>
+  </Companero4>
+
+  <Companero5>
+    <Nombre>Guillermo</Nombre>
+    <PrimerApellido>Garcia</PrimerApellido>
+    <Telefono>654789541</Telefono>
+  </Companero5>
+  
+</Companeros>
