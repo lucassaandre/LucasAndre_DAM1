@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Biblioteca>
+    <Libros>
+        <Libro id="1">
+            <Título>Las aventuras de Joaquín</Título>
+            <Autor>Joaquín Vilumbrares</Autor>
+            <ISBN>1234567BN</ISBN>
+            <Editorial>SM</Editorial>
+        </Libro>
+        <Libro id="2">
+            <Título>Las aventuras de Dani</Título>
+            <Autor>Claudia Berdión</Autor>
+            <ISBN>1234787MP</ISBN>
+            <Editorial>SM</Editorial>
+        </Libro>
+    </Libros>
+</Biblioteca>
