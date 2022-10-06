@@ -27,4 +27,4 @@ public class Nomina
 //Clases: la primera letra mayus
 //Constantes: Todas en MAYUS
 //Variables: la primera palabra minus, la segunda letra mayus el resto de la palabra en minus
-//Métodos:
+//Métodos: camel case

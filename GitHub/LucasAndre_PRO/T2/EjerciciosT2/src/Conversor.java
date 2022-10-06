@@ -7,6 +7,6 @@ public class Conversor
         final double CAMBIO_LIBRA = 0.87;
 
         System.out.println("Euros a cambiar: ");
-        double cantidadEuros =
+        double cantidadEuros;
     }
 }
