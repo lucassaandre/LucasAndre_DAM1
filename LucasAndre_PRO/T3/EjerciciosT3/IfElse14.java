@@ -7,7 +7,7 @@ public class IfElse14
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
-        System.out.println("Este es un programa para verificar si la fecha es correcta.");
+        System.out.println("Este es un programa para indicar la fecha siguiente a la introducida.");
         System.out.println("Introduce el día: ");
         int     day = input.nextInt();
         System.out.println("Introduce el mes: ");
@@ -42,7 +42,18 @@ public class IfElse14
             {
                 if(day >= 1 && day <= 30)
                 {
-                    System.out.println("La fecha introducida es correcta: " + day + "/" + month + "/" + year);
+                    if(day == 30 && month == 12)
+                    {
+                        System.out.println("La fecha siguiente a la introducida (" + day + "/" + month + "/" + year + ") es: 1/1/" + (year + 1));
+                    }
+                    else if(day == 30)
+                    {
+                        System.out.println("La fecha siguiente a la introducida (" + day + "/" + month + "/" + year + ") es: 1/" + (month + 1) + "/" + year);
+                    }
+                    else
+                    {
+                        System.out.println("La fecha siguiente a la introducida (" + day + "/" + month + "/" + year + ") es: " + (day + 1) + "/" + month + "/" + year);
+                    }
                 }
                 else
                 {
