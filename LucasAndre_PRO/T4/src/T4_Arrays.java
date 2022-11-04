@@ -54,7 +54,6 @@ public class T4_Arrays
         for (int i = 0; i < numbers.length; i++)
         {
             sumatorio += numbers[i];
-            if()
         }
     }
     private static void ejercicioDosArrays()
