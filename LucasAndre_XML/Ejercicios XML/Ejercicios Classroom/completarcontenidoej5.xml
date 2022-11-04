@@ -1,0 +1,18 @@
+<mensaje>
+    <remitente>
+        <nombre>Alfredo</nombre>
+        <apellido1>Reino</apellido1>
+        <email>alf@ibim.com</email>
+    </remitente>
+    <destinatario>
+        <nombre>Bill</nombre>
+        <apellido1>Clinton</apellido1>
+        <email>bill@ibim.com</email>
+    </destinatario>
+    <asunto>Hola Bill</asunto>
+    <texto>
+        <párrafo1>Hola, ¿qué tal todo?</párrafo1>
+        <párrafo2>Hace mucho tiempo que no escribes. A ver si llamas y quedamos pronto.</párrafo2>
+        <párrafo3> Un saludo.</párrafo3>
+    </texto>
+</mensaje>

@@ -1,0 +1,32 @@
+<menu>
+    <desayuno1>
+        <nombre></nombre>
+        <precio></precio>
+        <descripcion></descripcion>
+        <calorias></calorias>
+    </desayuno1>
+    <desayuno2>
+        <nombre></nombre>
+        <precio></precio>
+        <descripcion></descripcion>
+        <calorias></calorias>
+    </desayuno2>
+    <desayuno3>
+        <nombre></nombre>
+        <precio></precio>
+        <descripcion></descripcion>
+        <calorias></calorias>
+    </desayuno3>
+    <desayuno4>
+        <nombre></nombre>
+        <precio></precio>
+        <descripcion></descripcion>
+        <calorias></calorias>
+    </desayuno4>
+    <desayuno5>
+        <nombre></nombre>
+        <precio></precio>
+        <descripcion></descripcion>
+        <calorias></calorias>
+    </desayuno5>
+</menu>

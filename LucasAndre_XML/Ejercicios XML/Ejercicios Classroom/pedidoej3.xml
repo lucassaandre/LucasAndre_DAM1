@@ -1,0 +1,22 @@
+<pedido>
+    <destinatario>
+        <nombre>Juan</nombre>
+        <apellido1>Delgado</apellido1>
+        <apellido2>Martínez</apellido2>
+    </destinatario>
+    <articulo>
+        <nombre>Bicicleta</nombre>
+        <codigo_articulo>A2023</codigo_articulo>
+    </articulo>
+    <direccion_entrega>
+        <calle>Barco</calle>
+        <numero>4</numero>
+        <piso>3º</piso>
+        <letra>A</letra>
+    </direccion_entrega>
+    <fecha_entrega>
+        <dia>19</dia>
+        <mes>5</mes>
+        <año>2000</año>
+    </fecha_entrega>
+</pedido>
