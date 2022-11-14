@@ -1,0 +1,25 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+header img
+{
+	width:150px;
+}
+section img
+{
+	width:350px;
+}
+footer
+{
+	background color:#F60;
+	color:#FFF;
+}
+li{
+    background-color: bisque;
+    display: inline;
+}
+img{
+    display: block
+}

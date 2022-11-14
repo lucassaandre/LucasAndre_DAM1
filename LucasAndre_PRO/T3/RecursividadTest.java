@@ -6,7 +6,8 @@ public class RecursividadTest
 	    int r;
 	    r = num1;
 	    //numbers(r);
-        System.out.println(r);
+        System.out.println(r
+        );
     }
     private static void numbers(int r)
     {
