@@ -1,0 +1,48 @@
+DOCTYPE CATALOG [
+
+<!lENTITY AUTHOR "John Doe”>
+<!ENTITY COMPANY "JD Power Tools, Inc.">
+<!lENTITY EMAIL "jdfjd-tools.com”>
+
+<!lELEMENT CATALOG (PRODUCT+)>
+
+<lELEMENT PRODUCT
+(SPECIFICATIONS+,OPTIONS?,PRICE+,NOTES?)>
+
+<lATTLIST PRODUCT
+
+NAME CDATA FHIMPLIED
+
+CATEGORY (HandTool|TablelShop-Professional) "HandTool"
+PARTNUM CDATA HIMPLIED
+
+PLANT (Pittsburgh|Milwaukee|chicago) "Chicago"
+INVENTORY (Instock|BackorderedlDiscontinued) "Instock">
+
+<!lELEMENT SPECIFICATIONS (*PCDATA)>
+<lATTLIST SPECIFICATIONS
+
+WEIGHT CDATA F*IMPLIED
+
+POWER CDATA +IMPLIED>
+
+<!lELEMENT OPTIONS (FPCDATA) >
+
+<!lATTLIST OPTIONS
+
+FINISH (MetallPolishedlMatte) "Matte"
+
+ADAPTER (Includedloptional|NotApplicable) "Included"
+case (Hardshell|soft|Notapplicable) " ">
+
+<!lELEMENT PRICE (*PCDATA)>
+<!lATTLIST PRICE
+
+MSRP CDATA HIMPLIED
+WHOLESALE CDATA FIMPLIED
+STREET CDATA HIMPLIED
+SHIPPING CDATA *HIMPLIED>
+
+<!lELEMENT NOTES (*PCDATA)>
+
+1>
