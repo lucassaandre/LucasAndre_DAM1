@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LucasAndre_PRO/T2/EjerciciosT2/EjerciciosT2.iml" filepath="$PROJECT_DIR$/LucasAndre_PRO/T2/EjerciciosT2/EjerciciosT2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LucasAndre_DAM1.iml" filepath="$PROJECT_DIR$/.idea/LucasAndre_DAM1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucasAndre_PRO/LucasAndre_PRO.iml" filepath="$PROJECT_DIR$/LucasAndre_PRO/LucasAndre_PRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucasAndre_PRO/Lucas_Pinochet/Lucas_Pinochet.iml" filepath="$PROJECT_DIR$/LucasAndre_PRO/Lucas_Pinochet/Lucas_Pinochet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lucas_Pinochet/Lucas_Pinochet1.iml" filepath="$PROJECT_DIR$/Lucas_Pinochet/Lucas_Pinochet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucasAndre_PRO/T1/T1.iml" filepath="$PROJECT_DIR$/LucasAndre_PRO/T1/T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucasAndre_PRO/T2/T2_Estructura/T2_Estructura.iml" filepath="$PROJECT_DIR$/LucasAndre_PRO/T2/T2_Estructura/T2_Estructura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucasAndre_PRO/T4/T4.iml" filepath="$PROJECT_DIR$/LucasAndre_PRO/T4/T4.iml" />
+    </modules>
+  </component>
+</project>
