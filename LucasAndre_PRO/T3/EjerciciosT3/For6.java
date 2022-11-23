@@ -31,9 +31,11 @@ public class For6
         }
         while(exp < 0 || exp > 5);
         
+        int potencia = 1;
         for (int i = 0; i < exp; i++)
         {
-            
+            potencia *= base;
         }
+        System.out.println("El resultado de "+base+"^"+exp+" es "+potencia);
     }    
 }
