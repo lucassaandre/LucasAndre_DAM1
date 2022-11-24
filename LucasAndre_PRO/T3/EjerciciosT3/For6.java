@@ -1,4 +1,4 @@
-package LucasAndre_DAM1.LucasAndre_PRO.T3.EjerciciosT3;
+
 
 import java.util.Scanner;
 
@@ -34,8 +34,8 @@ public class For6
         int potencia = 1;
         for (int i = 0; i < exp; i++)
         {
-            potencia*=base;
+            potencia *= base;
         }
-        System.out.println("El resultado de la potencia es "+potencia);
+        System.out.println("El resultado de "+base+"^"+exp+" es "+potencia);
     }    
 }
