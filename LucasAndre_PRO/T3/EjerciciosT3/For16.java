@@ -10,7 +10,7 @@ public class For16
         String  word = input.nextLine();
         boolean palindromo = false;
         
-        for (int i = 0; i < word.length(); i++)
+        for (int i = 0; i < word.length() / 2; i++)
         {
             if(word.charAt(i) == word.charAt(word.length() - 1 - i))
             {
@@ -18,7 +18,7 @@ public class For16
             }
             else
             {
-                palindromo = false; 
+                palindromo = false;
             }
         }
         System.out.println("La palabra es palíndromo: " + palindromo);
