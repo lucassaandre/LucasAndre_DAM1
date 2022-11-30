@@ -30,5 +30,6 @@ public class ArrayUni6
                 System.out.printf("%d, ", array[i]);
             }
         }
+        System.out.printf("%d\n", primero);
     }    
 }
