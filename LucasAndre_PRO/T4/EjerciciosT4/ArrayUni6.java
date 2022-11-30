@@ -17,18 +17,12 @@ public class ArrayUni6
             System.out.printf("%d, ", i);
         }
         System.out.println();
-        System.out.println("Array desplazado hacia la derecha: ");
+        System.out.println("Array desplazado hacia la izq: ");
         int primero = array[0];
-        int aux;
-        for (int i = array.length - 1; i > 0; i--)
+        for (int i = 0; i < array.length - 1; i++)
         {
-            if(i > 0)
-            {
-                aux = array[i];
-                array[i] = array[i-1];
-                array[i-1] = aux; 
-                System.out.printf("%d, ", array[i]);
-            }
+            array[i] = array[i+1];
+            System.out.printf("%d, ", array[i]);
         }
         System.out.printf("%d\n", primero);
     }    
