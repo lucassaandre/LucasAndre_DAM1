@@ -1,3 +1,5 @@
+package LucasAndre_DAM1.LucasAndre_PRO.T3.EjerciciosT3;
+
 import java.util.Scanner;
 
 public class For15
